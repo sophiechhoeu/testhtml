@@ -1,0 +1,17 @@
+section {
+  text-align: left;
+}
+
+#contact-us {
+  background-color: yellow;
+  border-radius: 15px;
+  display: inline-block;
+  padding: 10px 10px;
+  float:left;
+  width: 40%;
+}
+
+.info {
+  float: left;
+  margin-left: 10px;
+}
